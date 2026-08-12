@@ -1,4 +1,6 @@
 # Microsoft 365 Copilot Public AI Risk Assessment
+<img width="1536" height="1024" alt="Designer (21)" src="https://github.com/user-attachments/assets/c1b7d89a-a602-4b8e-b549-a9dbf0b7832a" />
+
 
 A real-world AI governance and risk assessment for **Microsoft 365 Copilot** in a museum, records-management, and metadata environment.
 
