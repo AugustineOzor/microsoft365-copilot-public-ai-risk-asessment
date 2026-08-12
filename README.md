@@ -31,12 +31,9 @@ Follow the information flow from **project definition → system profiling → u
 
 **Approve with Controls**
 
-Frameworks and References
-
-This project applies established AI governance, AI risk management, information security, and responsible AI frameworks to support the assessment and governance of Microsoft 365 Copilot.
 
 ## Frameworks Used
-
+This project applies established AI governance, AI risk management, information security, and responsible AI frameworks to support the assessment and governance of Microsoft 365 Copilot.
 ### 1. NIST AI Risk Management Framework (AI RMF)
 
 The **NIST AI RMF** provides the primary structure for identifying, assessing, measuring, and managing AI risks.
