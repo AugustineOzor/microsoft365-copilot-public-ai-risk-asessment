@@ -30,7 +30,8 @@ Follow the information flow from **project definition → system profiling → u
 ## Final Decision
 
 **Approve with Controls**
-# 17 — Frameworks and References
+
+Frameworks and References
 
 This project applies established AI governance, AI risk management, information security, and responsible AI frameworks to support the assessment and governance of Microsoft 365 Copilot.
 
