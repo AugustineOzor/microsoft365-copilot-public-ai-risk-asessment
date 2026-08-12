@@ -30,3 +30,155 @@ Follow the information flow from **project definition → system profiling → u
 ## Final Decision
 
 **Approve with Controls**
+# 17 — Frameworks and References
+
+This project applies established AI governance, AI risk management, information security, and responsible AI frameworks to support the assessment and governance of Microsoft 365 Copilot.
+
+## Frameworks Used
+
+### 1. NIST AI Risk Management Framework (AI RMF)
+
+The **NIST AI RMF** provides the primary structure for identifying, assessing, measuring, and managing AI risks.
+
+The project applies the four core functions:
+
+- **Govern** — Establish AI governance, accountability, policies, and responsibilities.
+- **Map** — Identify AI use cases, stakeholders, data, context, and potential risks.
+- **Measure** — Assess AI risks, performance, incidents, and control effectiveness.
+- **Manage** — Apply risk treatments, human oversight, monitoring, and corrective actions.
+
+**Official Reference:**  
+[NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+
+---
+
+### 2. NIST AI RMF — Generative AI Profile
+
+The **NIST Generative AI Profile (NIST AI 600-1)** provides additional guidance for risks associated with generative AI systems.
+
+It supports this project in areas including:
+
+- Generative AI risk identification
+- AI output reliability
+- Human oversight
+- Information integrity
+- Privacy
+- Security
+- Responsible AI governance
+
+**Official Reference:**  
+[NIST AI Risk Management Framework — Generative AI Profile](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence)
+
+---
+
+### 3. ISO/IEC 42001:2023 — Artificial Intelligence Management System
+
+**ISO/IEC 42001** provides requirements for establishing, implementing, maintaining, and continually improving an **Artificial Intelligence Management System (AIMS)**.
+
+It supports the project in:
+
+- AI governance
+- AI policies
+- Roles and responsibilities
+- AI risk management
+- Operational controls
+- Monitoring
+- Continual improvement
+- Governance accountability
+
+**Official Reference:**  
+[ISO/IEC 42001:2023](https://www.iso.org/standard/42001.html)
+
+---
+
+### 4. ISO/IEC 23894:2023 — AI Risk Management
+
+**ISO/IEC 23894** provides guidance for organizations managing risks associated with AI systems.
+
+It supports this project in:
+
+- AI risk identification
+- Risk assessment
+- Risk treatment
+- Risk ownership
+- Risk monitoring
+- Integration of AI risk management into organizational processes
+
+**Official Reference:**  
+[ISO/IEC 23894:2023](https://www.iso.org/standard/77304.html)
+
+---
+
+### 5. ISO/IEC 27001:2022 — Information Security Management System
+
+**ISO/IEC 27001** provides the broader information-security management foundation for protecting organizational information and managing security risks.
+
+It supports the project in:
+
+- Information security governance
+- Access control
+- Information protection
+- Risk management
+- Security monitoring
+- Incident management
+- Audit and continual improvement
+
+**Official Reference:**  
+[ISO/IEC 27001:2022](https://www.iso.org/standard/27001.html)
+
+---
+
+## Framework Alignment
+
+| Project Area | Primary Framework | Supporting Framework |
+|---|---|---|
+| AI Governance | NIST AI RMF | ISO/IEC 42001 |
+| AI Risk Assessment | NIST AI RMF | ISO/IEC 23894 |
+| Generative AI Risks | NIST GenAI Profile | ISO/IEC 23894 |
+| AI Management System | ISO/IEC 42001 | NIST AI RMF |
+| Information Security | ISO/IEC 27001 | NIST AI RMF |
+| Access & Data Protection | ISO/IEC 27001 | ISO/IEC 42001 |
+| Human Oversight | NIST AI RMF | ISO/IEC 42001 |
+| Monitoring & Measurement | NIST AI RMF | ISO/IEC 42001 |
+| Incident Response | ISO/IEC 27001 | NIST AI RMF |
+| Audit & Assurance | ISO/IEC 42001 | ISO/IEC 27001 |
+| Continual Improvement | ISO/IEC 42001 | NIST AI RMF |
+
+---
+
+## How the Frameworks Work Together
+
+```text
+                AI GOVERNANCE
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+     NIST AI RMF             ISO/IEC 42001
+          │                       │
+   Govern / Map /          AI Management System
+   Measure / Manage                │
+          │                       │
+          └───────────┬───────────┘
+                      │
+              AI RISK MANAGEMENT
+                      │
+               ISO/IEC 23894
+                      │
+                      ▼
+              RISK ASSESSMENT
+                      │
+                      ▼
+             GOVERNANCE CONTROLS
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+   HUMAN OVERSIGHT          INFORMATION SECURITY
+          │                  ISO/IEC 27001
+          │                       │
+          └───────────┬───────────┘
+                      │
+                      ▼
+              MONITORING & AUDIT
+                      │
+                      ▼
+            CONTINUAL IMPROVEMENT
