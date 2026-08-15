@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Microsoft 365 Copilot Public AI Risk Assessment"/>
+ <img src="assets/banner.svg" width="100%" alt="Microsoft 365 Copilot Public AI Risk Assessment"/>
 
 # Microsoft 365 Copilot Public AI Risk Assessment
 
