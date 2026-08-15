@@ -1,4 +1,5 @@
- <img src="assets/banner.svg" width="100%" alt="Microsoft 365 Copilot Public AI Risk Assessment"/>
+
+<img width="1360" height="400" alt="banner (1)" src="https://github.com/user-attachments/assets/fc7ebf90-415f-43ef-bc13-712f9519ddd5" />
 
 # Microsoft 365 Copilot Public AI Risk Assessment
 
