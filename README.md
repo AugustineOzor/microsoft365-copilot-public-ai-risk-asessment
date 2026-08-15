@@ -25,6 +25,9 @@ This project does **not** judge whether Microsoft 365 Copilot is "good" or "bad.
 
 > Built entirely from Microsoft's public documentation and recognized AI risk-management references — no internal or proprietary organizational data is used.
 
+<img width="1536" height="1024" alt="635012756-c1b7d89a-a602-4b8e-b549-a9dbf0b7832a" src="https://github.com/user-attachments/assets/eda23bbc-9ca4-4196-a9cc-6d46a2cd5a27" />
+
+
 ## Repository Structure
 
 Follow the information flow: **project definition → system profiling → use-case inventory → risk classification → risk assessment → governance controls → human oversight → monitoring → incident response → audit → final recommendation.**
