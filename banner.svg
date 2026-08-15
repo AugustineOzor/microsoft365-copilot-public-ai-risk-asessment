@@ -1,0 +1,36 @@
+<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Microsoft 365 Copilot Public AI Risk Assessment banner</title>
+<desc>Dark navy banner with the project title, subtitle, and tags for NIST AI RMF, ISO/IEC 42001, and Approve with Controls.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="680" y2="200" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0a1128"/>
+<stop offset="1" stop-color="#152238"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="680" height="200" fill="url(#bg)"/>
+<g stroke="#3a5a8a" stroke-width="1" fill="none" opacity="0.6">
+<line x1="520" y1="60" x2="580" y2="40"/>
+<line x1="520" y1="60" x2="560" y2="100"/>
+<line x1="560" y1="100" x2="610" y2="90"/>
+<line x1="580" y1="40" x2="630" y2="60"/>
+<line x1="560" y1="100" x2="600" y2="140"/>
+</g>
+<g fill="#4fc3f7">
+<circle cx="520" cy="60" r="4"/>
+<circle cx="580" cy="40" r="4"/>
+<circle cx="560" cy="100" r="5"/>
+<circle cx="610" cy="90" r="4"/>
+<circle cx="630" cy="60" r="4"/>
+<circle cx="600" cy="140" r="4"/>
+</g>
+<text x="40" y="80" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Microsoft 365 Copilot</text>
+<text x="40" y="110" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#9fd3f5">Public AI Risk Assessment &amp; Governance Controls</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600">
+<rect x="40" y="140" width="118" height="26" rx="13" fill="#173355"/>
+<text x="99" y="157" fill="#8fd3ff" text-anchor="middle">NIST AI RMF</text>
+<rect x="168" y="140" width="118" height="26" rx="13" fill="#173355"/>
+<text x="227" y="157" fill="#8fd3ff" text-anchor="middle">ISO/IEC 42001</text>
+<rect x="296" y="140" width="200" height="26" rx="13" fill="#1d4a2f"/>
+<text x="396" y="157" fill="#7be6a0" text-anchor="middle">Approve with Controls</text>
+</g>
+</svg>
